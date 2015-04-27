@@ -8,7 +8,5 @@
 #include <stdio.h> 
 
 int main(void){
-	puts("-_-_- HOLA MUNDO -_-_-\n");
-
-	//return EXIT_SUCCESS;
+	printf("-_-_- HOLA MUNDO -_-_-\n");
 }
